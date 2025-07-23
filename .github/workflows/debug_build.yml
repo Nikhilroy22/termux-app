@@ -119,4 +119,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: libkk
-          path: terminal-view/build/outputs/aar
+          path: ./terminal-view/build/outputs
