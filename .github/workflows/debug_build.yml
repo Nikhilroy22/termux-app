@@ -123,4 +123,4 @@ jobs:
         with:
           name: libkk
           path: |
-            termux-view/builds/outputs/aar
+            terminal-view/builds/outputs/aar
